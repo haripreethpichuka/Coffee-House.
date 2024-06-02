@@ -16,8 +16,8 @@
 
 ## URLS 🔗
 
-- GitHub Repository: https://github.com/haripreethpichuka/WanderWave-Explore-Yourself
-- Vercel Deploy: https://haripreethpichuka.github.io/WanderWave-Explore-Yourself/
+- GitHub Repository: https://github.com/haripreethpichuka/Coffee-House.
+- GitHub Deploy: https://haripreethpichuka.github.io/Coffee-House./
 
 ## Tools and Languages 🔨
 
